@@ -1,0 +1,715 @@
+{
+  "_class": "document",
+  "assets": {
+    "_class": "assetCollection",
+    "colorAssets": [
+      {
+        "_class": "MSImmutableColorAsset",
+        "color": {
+          "_class": "color",
+          "alpha": 0,
+          "blue": 1,
+          "green": 0.9882352941176471,
+          "red": 0.9882352941176471
+        },
+        "name": "none"
+      },
+      {
+        "_class": "MSImmutableColorAsset",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 0.9882352941176471,
+          "red": 0.9882352941176471
+        },
+        "name": "mono00"
+      },
+      {
+        "_class": "MSImmutableColorAsset",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.984313725490196,
+          "green": 0.9450980392156862,
+          "red": 0.9372549019607843
+        },
+        "name": "mono10"
+      },
+      {
+        "_class": "MSImmutableColorAsset",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.9098039215686274,
+          "green": 0.8313725490196079,
+          "red": 0.807843137254902
+        },
+        "name": "mono30"
+      },
+      {
+        "_class": "MSImmutableColorAsset",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.7686274509803922,
+          "green": 0.6745098039215687,
+          "red": 0.6470588235294118
+        },
+        "name": "mono50"
+      },
+      {
+        "_class": "MSImmutableColorAsset",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.5254901960784314,
+          "green": 0.4549019607843137,
+          "red": 0.4313725490196079
+        },
+        "name": "mono70"
+      },
+      {
+        "_class": "MSImmutableColorAsset",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.1882352941176471,
+          "green": 0.1568627450980392,
+          "red": 0.1490196078431373
+        },
+        "name": "mono90"
+      },
+      {
+        "_class": "MSImmutableColorAsset",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.9372549019607843,
+          "green": 0.9294117647058824,
+          "red": 0.9803921568627451
+        },
+        "name": "red00"
+      },
+      {
+        "_class": "MSImmutableColorAsset",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.8156862745098039,
+          "green": 0.7803921568627451,
+          "red": 0.9647058823529412
+        },
+        "name": "red10"
+      },
+      {
+        "_class": "MSImmutableColorAsset",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.5882352941176471,
+          "green": 0.5098039215686274,
+          "red": 0.9176470588235294
+        },
+        "name": "red30"
+      },
+      {
+        "_class": "MSImmutableColorAsset",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.4235294117647058,
+          "green": 0.3137254901960784,
+          "red": 0.8274509803921568
+        },
+        "name": "red50"
+      },
+      {
+        "_class": "MSImmutableColorAsset",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.3137254901960783,
+          "green": 0.1843137254901961,
+          "red": 0.6705882352941176
+        },
+        "name": "red70"
+      },
+      {
+        "_class": "MSImmutableColorAsset",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.2117647058823529,
+          "green": 0.1019607843137255,
+          "red": 0.4549019607843137
+        },
+        "name": "red90"
+      },
+      {
+        "_class": "MSImmutableColorAsset",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.9490196078431372,
+          "green": 0.9764705882352941,
+          "red": 1
+        },
+        "name": "yellow00"
+      },
+      {
+        "_class": "MSImmutableColorAsset",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.807843137254902,
+          "green": 0.9137254901960784,
+          "red": 0.9921568627450981
+        },
+        "name": "yellow10"
+      },
+      {
+        "_class": "MSImmutableColorAsset",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.5568627450980392,
+          "green": 0.780392156862745,
+          "red": 0.984313725490196
+        },
+        "name": "yellow30"
+      },
+      {
+        "_class": "MSImmutableColorAsset",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.3803921568627451,
+          "green": 0.6705882352941176,
+          "red": 0.9568627450980393
+        },
+        "name": "yellow50"
+      },
+      {
+        "_class": "MSImmutableColorAsset",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.2784313725490196,
+          "green": 0.5725490196078431,
+          "red": 0.9215686274509803
+        },
+        "name": "yellow70"
+      },
+      {
+        "_class": "MSImmutableColorAsset",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.2196078431372549,
+          "green": 0.4784313725490197,
+          "red": 0.8705882352941177
+        },
+        "name": "yellow90"
+      },
+      {
+        "_class": "MSImmutableColorAsset",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.9647058823529412,
+          "green": 0.9803921568627451,
+          "red": 0.9294117647058824
+        },
+        "name": "green00"
+      },
+      {
+        "_class": "MSImmutableColorAsset",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.9137254901960783,
+          "green": 0.9686274509803922,
+          "red": 0.7843137254901961
+        },
+        "name": "green10"
+      },
+      {
+        "_class": "MSImmutableColorAsset",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.803921568627451,
+          "green": 0.9215686274509803,
+          "red": 0.5215686274509804
+        },
+        "name": "green30"
+      },
+      {
+        "_class": "MSImmutableColorAsset",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.6901960784313727,
+          "green": 0.8313725490196079,
+          "red": 0.3333333333333333
+        },
+        "name": "green50"
+      },
+      {
+        "_class": "MSImmutableColorAsset",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.5607843137254902,
+          "green": 0.6745098039215687,
+          "red": 0.207843137254902
+        },
+        "name": "green70"
+      },
+      {
+        "_class": "MSImmutableColorAsset",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.3882352941176471,
+          "green": 0.4549019607843137,
+          "red": 0.1176470588235294
+        },
+        "name": "green90"
+      },
+      {
+        "_class": "MSImmutableColorAsset",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.9803921568627451,
+          "green": 0.9490196078431372,
+          "red": 0.9294117647058824
+        },
+        "name": "blue00"
+      },
+      {
+        "_class": "MSImmutableColorAsset",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.9647058823529412,
+          "green": 0.8588235294117647,
+          "red": 0.7843137254901961
+        },
+        "name": "blue10"
+      },
+      {
+        "_class": "MSImmutableColorAsset",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.9176470588235294,
+          "green": 0.6745098039215687,
+          "red": 0.5137254901960784
+        },
+        "name": "blue30"
+      },
+      {
+        "_class": "MSImmutableColorAsset",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.8235294117647058,
+          "green": 0.5137254901960786,
+          "red": 0.3137254901960784
+        },
+        "name": "blue50"
+      },
+      {
+        "_class": "MSImmutableColorAsset",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.6705882352941176,
+          "green": 0.3686274509803922,
+          "red": 0.188235294117647
+        },
+        "name": "blue70"
+      },
+      {
+        "_class": "MSImmutableColorAsset",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.4509803921568628,
+          "green": 0.2274509803921569,
+          "red": 0.1019607843137255
+        },
+        "name": "blue90"
+      },
+      {
+        "_class": "MSImmutableColorAsset",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.9803921568627451,
+          "green": 0.9294117647058824,
+          "red": 0.9647058823529412
+        },
+        "name": "purple00"
+      },
+      {
+        "_class": "MSImmutableColorAsset",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.9647058823529412,
+          "green": 0.7843137254901961,
+          "red": 0.9019607843137256
+        },
+        "name": "purple10"
+      },
+      {
+        "_class": "MSImmutableColorAsset",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.9137254901960784,
+          "green": 0.5176470588235295,
+          "red": 0.7764705882352939
+        },
+        "name": "purple30"
+      },
+      {
+        "_class": "MSImmutableColorAsset",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.8235294117647058,
+          "green": 0.3254901960784314,
+          "red": 0.6431372549019606
+        },
+        "name": "purple50"
+      },
+      {
+        "_class": "MSImmutableColorAsset",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.6705882352941176,
+          "green": 0.2,
+          "red": 0.4862745098039216
+        },
+        "name": "purple70"
+      },
+      {
+        "_class": "MSImmutableColorAsset",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.4509803921568628,
+          "green": 0.1137254901960784,
+          "red": 0.3098039215686275
+        },
+        "name": "purple90"
+      }
+    ],
+    "colors": [
+      {
+        "_class": "color",
+        "alpha": 0,
+        "blue": 1,
+        "green": 0.9882352941176471,
+        "red": 0.9882352941176471
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 1,
+        "green": 0.9882352941176471,
+        "red": 0.9882352941176471
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.984313725490196,
+        "green": 0.9450980392156862,
+        "red": 0.9372549019607843
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.9098039215686274,
+        "green": 0.8313725490196079,
+        "red": 0.807843137254902
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.7686274509803922,
+        "green": 0.6745098039215687,
+        "red": 0.6470588235294118
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.5254901960784314,
+        "green": 0.4549019607843137,
+        "red": 0.4313725490196079
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.1882352941176471,
+        "green": 0.1568627450980392,
+        "red": 0.1490196078431373
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.9372549019607843,
+        "green": 0.9294117647058824,
+        "red": 0.9803921568627451
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.8156862745098039,
+        "green": 0.7803921568627451,
+        "red": 0.9647058823529412
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.5882352941176471,
+        "green": 0.5098039215686274,
+        "red": 0.9176470588235294
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.4235294117647058,
+        "green": 0.3137254901960784,
+        "red": 0.8274509803921568
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.3137254901960783,
+        "green": 0.1843137254901961,
+        "red": 0.6705882352941176
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.2117647058823529,
+        "green": 0.1019607843137255,
+        "red": 0.4549019607843137
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.9490196078431372,
+        "green": 0.9764705882352941,
+        "red": 1
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.807843137254902,
+        "green": 0.9137254901960784,
+        "red": 0.9921568627450981
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.5568627450980392,
+        "green": 0.780392156862745,
+        "red": 0.984313725490196
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.3803921568627451,
+        "green": 0.6705882352941176,
+        "red": 0.9568627450980393
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.2784313725490196,
+        "green": 0.5725490196078431,
+        "red": 0.9215686274509803
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.2196078431372549,
+        "green": 0.4784313725490197,
+        "red": 0.8705882352941177
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.9647058823529412,
+        "green": 0.9803921568627451,
+        "red": 0.9294117647058824
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.9137254901960783,
+        "green": 0.9686274509803922,
+        "red": 0.7843137254901961
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.803921568627451,
+        "green": 0.9215686274509803,
+        "red": 0.5215686274509804
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.6901960784313727,
+        "green": 0.8313725490196079,
+        "red": 0.3333333333333333
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.5607843137254902,
+        "green": 0.6745098039215687,
+        "red": 0.207843137254902
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.3882352941176471,
+        "green": 0.4549019607843137,
+        "red": 0.1176470588235294
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.9803921568627451,
+        "green": 0.9490196078431372,
+        "red": 0.9294117647058824
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.9647058823529412,
+        "green": 0.8588235294117647,
+        "red": 0.7843137254901961
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.9176470588235294,
+        "green": 0.6745098039215687,
+        "red": 0.5137254901960784
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.8235294117647058,
+        "green": 0.5137254901960786,
+        "red": 0.3137254901960784
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.6705882352941176,
+        "green": 0.3686274509803922,
+        "red": 0.188235294117647
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.4509803921568628,
+        "green": 0.2274509803921569,
+        "red": 0.1019607843137255
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.9803921568627451,
+        "green": 0.9294117647058824,
+        "red": 0.9647058823529412
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.9647058823529412,
+        "green": 0.7843137254901961,
+        "red": 0.9019607843137256
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.9137254901960784,
+        "green": 0.5176470588235295,
+        "red": 0.7764705882352939
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.8235294117647058,
+        "green": 0.3254901960784314,
+        "red": 0.6431372549019606
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.6705882352941176,
+        "green": 0.2,
+        "red": 0.4862745098039216
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.4509803921568628,
+        "green": 0.1137254901960784,
+        "red": 0.3098039215686275
+      }
+    ],
+    "gradientAssets": [
+    ],
+    "gradients": [
+    ],
+    "imageCollection": {
+      "_class": "imageCollection",
+      "images": {
+      }
+    },
+    "images": [
+    ]
+  },
+  "colorSpace": 1,
+  "do_objectID": "E5FD1551-EAEC-44BF-AFB8-CBBE28E94902",
+  "foreignLayerStyles": [
+  ],
+  "foreignSymbols": [
+  ],
+  "foreignTextStyles": [
+  ],
+  "layerSymbols": {
+    "_class": "symbolContainer",
+    "objects": [
+    ]
+  },
+  "meta": {
+    "appVersion": "56.2",
+    "build": 81672,
+    "version": 119
+  },
+  "pages": [
+    "colors",
+    "typography",
+    "spacing",
+    "shape",
+    "breakpoints",
+    "opacity",
+    "shadow",
+    "state"
+  ]
+}
