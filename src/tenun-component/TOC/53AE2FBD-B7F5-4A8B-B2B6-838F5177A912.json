@@ -2,7 +2,7 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "65C49D1A-1DDA-43D7-89A2-91364353EF8F",
+  "do_objectID": "53AE2FBD-B7F5-4A8B-B2B6-838F5177A912",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -14,11 +14,11 @@
   },
   "frame": {
     "_class": "rect",
-    "constrainProportions": true,
-    "height": 200,
-    "width": 200,
-    "x": 0,
-    "y": 0
+    "constrainProportions": false,
+    "height": 24,
+    "width": 166,
+    "x": -247,
+    "y": -162
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -27,16 +27,10 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
-  "name": "shape",
-  "nameIsFixed": true,
+  "layerListExpandedType": 0,
+  "name": "selection-control/checkbox/default",
+  "nameIsFixed": false,
   "overrideValues": [
-    {
-      "_class": "overrideValue",
-      "do_objectID": "6DE0D3D9-343E-4F00-9542-C9D3A25D2B6A",
-      "overrideName": "31A49557-5E06-455E-A289-88FD20F0E7E1_layerStyle",
-      "value": "2713CC02-6708-4CAF-BEF8-36AB92B5261D"
-    }
   ],
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -50,6 +44,6 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "F787C8FE-12D7-4F4E-A9CD-9B8DD418A94A",
+  "symbolID": "5A39C233-B852-4E28-ACB3-C6B44EF35031",
   "verticalSpacing": 0
 }

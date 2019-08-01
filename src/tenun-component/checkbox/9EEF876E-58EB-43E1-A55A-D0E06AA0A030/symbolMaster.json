@@ -9,9 +9,9 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 126,
+  "changeIdentifier": 35,
   "clippingMaskMode": 0,
-  "do_objectID": "45FD2AC7-B856-469C-BBBF-992246E0D4BE",
+  "do_objectID": "9EEF876E-58EB-43E1-A55A-D0E06AA0A030",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -24,16 +24,16 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 128,
-    "width": 128,
-    "x": 823,
-    "y": 822
+    "height": 24,
+    "width": 166,
+    "x": -247,
+    "y": -162
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -54,21 +54,31 @@
   "layers": [
     {
       "class": "symbolInstance",
-      "id": "838D8446-F07E-431E-9D87-663A916525DE"
+      "id": "AC3413E2-2F70-4057-985E-0FFF1F27ED23"
     }
   ],
-  "name": "avatar/large",
-  "nameIsFixed": true,
+  "name": "checkbox/default",
+  "nameIsFixed": false,
   "overrideProperties": [
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": false,
-      "overrideName": "838D8446-F07E-431E-9D87-663A916525DE_symbolID"
+      "overrideName": "AC3413E2-2F70-4057-985E-0FFF1F27ED23_symbolID"
     },
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": false,
-      "overrideName": "838D8446-F07E-431E-9D87-663A916525DE/B120E9C8-8474-4139-926F-B759F6F8E92E_textStyle"
+      "overrideName": "AC3413E2-2F70-4057-985E-0FFF1F27ED23/7DD77529-E33A-46F9-A1AF-C0AE61F04C65_textStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": false,
+      "overrideName": "AC3413E2-2F70-4057-985E-0FFF1F27ED23/5F65CD63-3EA9-4658-87E0-9F0C8F980A53_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": false,
+      "overrideName": "AC3413E2-2F70-4057-985E-0FFF1F27ED23/5F65CD63-3EA9-4658-87E0-9F0C8F980A53/A79D9FC7-103D-4C1F-A30F-9D29BF10D980_layerStyle"
     }
   ],
   "resizesContent": false,
@@ -83,7 +93,7 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "2532C5FE-EAE0-45A9-8C97-4768F3298B01",
+  "symbolID": "5A39C233-B852-4E28-ACB3-C6B44EF35031",
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,

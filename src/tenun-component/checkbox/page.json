@@ -1,15 +1,8 @@
 {
-  "_class": "artboard",
-  "backgroundColor": {
-    "_class": "color",
-    "alpha": 1,
-    "blue": 1,
-    "green": 1,
-    "red": 1
-  },
+  "_class": "page",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "B690DDDB-CAEE-4799-A217-A5336B9646DC",
+  "do_objectID": "900189F9-D7C0-4E72-AAB7-BA2B179ADA82",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -22,45 +15,69 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 52,
-    "width": 124,
-    "x": -450,
-    "y": -224
+    "height": 0,
+    "width": 0,
+    "x": 0,
+    "y": 0
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
   },
-  "hasBackgroundColor": false,
   "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
-    "base": 0,
+    "base": -608,
     "guides": [
     ]
   },
-  "includeBackgroundColorInExport": true,
   "includeInCloudUpload": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
-  "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "symbolInstance",
-      "id": "291C0861-4583-49E9-906D-4CD96815EE44"
+      "class": "symbolMaster",
+      "id": "1471FEFA-890D-4778-AC62-FF2159ACD5ED"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "9EEF876E-58EB-43E1-A55A-D0E06AA0A030"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "9561DA61-0C9B-4793-ACD2-FB9E027D4F5D"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "FADAF5D7-1CF1-4CE8-888C-1C8BDA68D286"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "57684271-A41C-4DA2-80E8-86B82ED969AC"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "6EF8691D-72C4-4947-BDFA-55AD95A52D43"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "FB064187-F8B9-4BD1-9EE9-7B910C570904"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "7FB01633-2CA5-435B-8188-596C6A246A88"
     }
   ],
-  "name": "button/primary",
+  "name": "checkbox",
   "nameIsFixed": true,
-  "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "shouldBreakMaskChain": true,
+  "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
     "endMarkerType": 0,
@@ -70,7 +87,7 @@
   },
   "verticalRulerData": {
     "_class": "rulerData",
-    "base": 0,
+    "base": -451,
     "guides": [
     ]
   }

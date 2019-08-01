@@ -9,9 +9,9 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 126,
+  "changeIdentifier": 122,
   "clippingMaskMode": 0,
-  "do_objectID": "45FD2AC7-B856-469C-BBBF-992246E0D4BE",
+  "do_objectID": "FB064187-F8B9-4BD1-9EE9-7B910C570904",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -24,16 +24,16 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 128,
-    "width": 128,
-    "x": 823,
-    "y": 822
+    "height": 24,
+    "width": 144,
+    "x": 151,
+    "y": 22
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -54,21 +54,26 @@
   "layers": [
     {
       "class": "symbolInstance",
-      "id": "838D8446-F07E-431E-9D87-663A916525DE"
+      "id": "3AFD4CEB-1461-45D6-8ECA-7F07893A463D"
     }
   ],
-  "name": "avatar/large",
+  "name": "selection-control/radio/selected",
   "nameIsFixed": true,
   "overrideProperties": [
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": false,
-      "overrideName": "838D8446-F07E-431E-9D87-663A916525DE_symbolID"
+      "overrideName": "3AFD4CEB-1461-45D6-8ECA-7F07893A463D_symbolID"
     },
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": false,
-      "overrideName": "838D8446-F07E-431E-9D87-663A916525DE/B120E9C8-8474-4139-926F-B759F6F8E92E_textStyle"
+      "overrideName": "3AFD4CEB-1461-45D6-8ECA-7F07893A463D/7DD77529-E33A-46F9-A1AF-C0AE61F04C65_textStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": false,
+      "overrideName": "3AFD4CEB-1461-45D6-8ECA-7F07893A463D/5F65CD63-3EA9-4658-87E0-9F0C8F980A53_symbolID"
     }
   ],
   "resizesContent": false,
@@ -83,7 +88,7 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "2532C5FE-EAE0-45A9-8C97-4768F3298B01",
+  "symbolID": "D562C59D-D3F1-40BE-892E-1617A8567E61",
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,
