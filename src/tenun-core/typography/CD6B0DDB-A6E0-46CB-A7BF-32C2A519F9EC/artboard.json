@@ -31,7 +31,7 @@
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -134,7 +134,7 @@
       "id": "89AE1999-3D4D-413D-84F1-99C7F6B7FCBF"
     }
   ],
-  "name": "mono00",
+  "name": "default",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 0,
