@@ -39,15 +39,15 @@
     },
     {
       "_class": "overrideValue",
-      "do_objectID": "45FBA397-D145-4D33-A04C-1E33590643DB",
-      "overrideName": "7DD77529-E33A-46F9-A1AF-C0AE61F04C65_stringValue",
-      "value": "Checkbox default"
+      "do_objectID": "FDC2256E-C511-469B-99DB-69ED65967951",
+      "overrideName": "7DD77529-E33A-46F9-A1AF-C0AE61F04C65_textStyle",
+      "value": "2B6D0A89-C09D-4397-9A9A-17374B78758E"
     },
     {
       "_class": "overrideValue",
-      "do_objectID": "5743A334-E0C7-459E-AF87-4A03A1223C81",
-      "overrideName": "7DD77529-E33A-46F9-A1AF-C0AE61F04C65_textStyle",
-      "value": "2B6D0A89-C09D-4397-9A9A-17374B78758E"
+      "do_objectID": "49CFB3BA-D4F1-4854-BE98-1E7B08D33EA2",
+      "overrideName": "7DD77529-E33A-46F9-A1AF-C0AE61F04C65_stringValue",
+      "value": "Checkbox default"
     }
   ],
   "resizingConstraint": 63,

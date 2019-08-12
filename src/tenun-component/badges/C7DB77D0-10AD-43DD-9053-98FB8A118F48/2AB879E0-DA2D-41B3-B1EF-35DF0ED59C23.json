@@ -33,18 +33,21 @@
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "overrideName": "48B0F018-0FBA-4ACC-9A3A-010A4B15F59D_stringValue",
-      "value": "Badge"
-    },
-    {
-      "_class": "overrideValue",
+      "do_objectID": "FC771635-AD1E-4BCA-896C-D8BF953C495F",
       "overrideName": "7D7C4520-4385-493E-82EA-69DD8618E563/2ACF0E18-1F95-4BEA-9966-61204DC96AD5_layerStyle",
       "value": "D3786C94-94A9-4365-90E1-B8F8BCA70721"
     },
     {
       "_class": "overrideValue",
+      "do_objectID": "C481871B-EDBA-4E5A-87C8-C483BF3F1AD3",
       "overrideName": "48B0F018-0FBA-4ACC-9A3A-010A4B15F59D_textStyle",
       "value": "AD9D3F38-99D5-47A6-AC82-0D57E43318D4"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "1AD656BC-1A6B-45B5-A641-4A0247E378B0",
+      "overrideName": "48B0F018-0FBA-4ACC-9A3A-010A4B15F59D_stringValue",
+      "value": "Badge"
     }
   ],
   "resizingConstraint": 63,

@@ -44,8 +44,84 @@
       "id": "40FDCFD0-E618-424E-8152-512CAA27C995"
     },
     {
+      "class": "symbolMaster",
+      "id": "862B6104-8308-44A6-87A0-2C827FA3EE6D"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "4ECF2F1B-E79B-471D-B69E-C8EB8EF8B9F3"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "53684698-AA3E-447F-A23F-9347CCBBC5DF"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "55584647-315E-4384-9E4B-79F7F921B2EE"
+    },
+    {
       "class": "artboard",
-      "id": "B690DDDB-CAEE-4799-A217-A5336B9646DC"
+      "id": "B5170370-CA18-4002-A8DB-E8FD2C645DAE"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "244200A9-D1ED-4E01-9FDF-863264122807"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "1BFA4656-2A3C-4852-AAD8-E58A32F19B7C"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "CE9F2B5E-3BC3-4B5E-9839-908CEDE85DA8"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "1DC4C132-75BD-4F6A-BE7B-91F275B1831B"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "FBCDEF5C-7145-4D70-849A-C09385497C6E"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "EBED4B4C-26C8-4B85-B8A3-D2F338E998BA"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "F3F5171F-70DF-4216-817D-A8A4617F0F07"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "B8FBA430-D302-4A6E-814C-A8F27722DED6"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "CF2CBFE4-A70C-4C72-B885-2E2EC9EEC955"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "D4E9F845-89B1-4CB1-B285-458DF47E7B05"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "F2E8F95C-55BE-42D6-89BD-FB648A4D4D34"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "1D504578-5EDF-4AA9-858B-543D7CAC5C74"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "FA6D98AC-134E-4F01-A27A-D010A1923ED9"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "5B876AE4-0028-460B-BA74-9BD7FB047F28"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "833D0C1D-E57F-422C-A041-9F4187C274B8"
     }
   ],
   "name": "buttons",

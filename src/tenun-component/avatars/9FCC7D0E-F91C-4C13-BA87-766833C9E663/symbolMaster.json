@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 110,
+  "changeIdentifier": 203,
   "clippingMaskMode": 0,
   "do_objectID": "9FCC7D0E-F91C-4C13-BA87-766833C9E663",
   "exportOptions": {
@@ -61,8 +61,8 @@
       "id": "B120E9C8-8474-4139-926F-B759F6F8E92E"
     }
   ],
-  "name": "base/avatar",
-  "nameIsFixed": false,
+  "name": "avatar/ρieces",
+  "nameIsFixed": true,
   "overrideProperties": [
     {
       "_class": "MSImmutableOverrideProperty",

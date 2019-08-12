@@ -33,13 +33,13 @@
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "do_objectID": "AE9B3E5D-090A-4909-86F7-45041DB8F4CF",
+      "do_objectID": "2A09A890-19B6-4EAC-BEB7-E10420A125BB",
       "overrideName": "65C49D1A-1DDA-43D7-89A2-91364353EF8F/E96F29E8-29AF-4968-90DC-5744DB7A307E_layerStyle",
       "value": "C688F4E0-2963-4542-8863-71720313184A"
     },
     {
       "_class": "overrideValue",
-      "do_objectID": "3B8F3941-D027-45D7-B08F-FFFE66B0B27F",
+      "do_objectID": "178A09EA-95DB-4741-8DDE-16BB751BAFF3",
       "overrideName": "B120E9C8-8474-4139-926F-B759F6F8E92E_textStyle",
       "value": "A5F7885A-AE36-41C1-9CDE-9A5923467FBA"
     }

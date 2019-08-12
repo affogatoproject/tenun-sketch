@@ -40,8 +40,24 @@
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "artboard",
-      "id": "DF2D92B4-B4FB-48FD-9F7B-725FE2A9FE0E"
+      "class": "symbolMaster",
+      "id": "B8118044-4F4F-489A-8FC6-CD44838BEA8A"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "EC5E236E-9F98-4929-8924-5CB8448C5D58"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "83D429BC-1C8F-4767-82E2-FCC7A7E90DE0"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "E1CB852C-AB99-47AC-A591-1EA11B269408"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "F564BF6D-8E52-4E7B-B245-E1D094D6D6CF"
     }
   ],
   "name": "toast",

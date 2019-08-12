@@ -43,27 +43,27 @@
     },
     {
       "_class": "overrideValue",
-      "do_objectID": "658612D7-851E-48AB-8042-3A4823DAB8AB",
+      "do_objectID": "2373B0B8-CCAC-4110-B3A7-E77C44BBA3A4",
       "overrideName": "5F65CD63-3EA9-4658-87E0-9F0C8F980A53_symbolID",
       "value": "8F9AB209-A839-44F8-9D78-38F8B96F70CD"
     },
     {
       "_class": "overrideValue",
-      "do_objectID": "70BA7628-93EB-45AB-8F83-80118D058CF8",
+      "do_objectID": "90A65FB1-475C-427F-AB8C-82E35A0D6D38",
       "overrideName": "5F65CD63-3EA9-4658-87E0-9F0C8F980A53/DE98D62C-07EC-41F7-ACF7-4449AA30AB7D_layerStyle",
       "value": "7A6FCF90-8A76-484D-A617-E19E73D1ED54"
     },
     {
       "_class": "overrideValue",
-      "do_objectID": "E0517A67-CCC9-41EF-A88F-D24416414129",
-      "overrideName": "7DD77529-E33A-46F9-A1AF-C0AE61F04C65_stringValue",
-      "value": "Checkbox selected"
+      "do_objectID": "8A9EE643-164C-4B18-867F-A7043CE47E97",
+      "overrideName": "7DD77529-E33A-46F9-A1AF-C0AE61F04C65_textStyle",
+      "value": "2B6D0A89-C09D-4397-9A9A-17374B78758E"
     },
     {
       "_class": "overrideValue",
-      "do_objectID": "B53FEF78-7D4B-44AD-8511-9293B0531BBA",
-      "overrideName": "7DD77529-E33A-46F9-A1AF-C0AE61F04C65_textStyle",
-      "value": "2B6D0A89-C09D-4397-9A9A-17374B78758E"
+      "do_objectID": "2E871F3F-377D-42D2-9E82-FAC4336A9A7C",
+      "overrideName": "7DD77529-E33A-46F9-A1AF-C0AE61F04C65_stringValue",
+      "value": "Checkbox selected"
     }
   ],
   "resizingConstraint": 63,

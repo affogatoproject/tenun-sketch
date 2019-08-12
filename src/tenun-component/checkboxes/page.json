@@ -62,6 +62,10 @@
     {
       "class": "symbolMaster",
       "id": "7FB01633-2CA5-435B-8188-596C6A246A88"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "C7BDA249-8D21-41F3-9E76-DEE08ADDE132"
     }
   ],
   "name": "checkboxes",

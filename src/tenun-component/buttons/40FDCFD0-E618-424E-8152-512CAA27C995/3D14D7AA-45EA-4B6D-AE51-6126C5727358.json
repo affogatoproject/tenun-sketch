@@ -54,7 +54,7 @@
     "constrainProportions": false,
     "height": 36,
     "width": 76,
-    "x": 24,
+    "x": 16,
     "y": 8
   },
   "glyphBounds": "{{2, 9}, {72, 19}}",
@@ -68,7 +68,7 @@
   "lineSpacingBehaviour": 2,
   "name": "text",
   "nameIsFixed": true,
-  "resizingConstraint": 43,
+  "resizingConstraint": 42,
   "resizingType": 0,
   "rotation": 0,
   "sharedStyleID": "56514175-BD22-4E0F-9A9A-297938465604",
@@ -109,5 +109,5 @@
     },
     "windingRule": 1
   },
-  "textBehaviour": 0
+  "textBehaviour": 1
 }

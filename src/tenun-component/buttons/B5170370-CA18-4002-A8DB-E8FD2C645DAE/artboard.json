@@ -1,0 +1,152 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "B5170370-CA18-4002-A8DB-E8FD2C645DAE",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 850,
+    "width": 1280,
+    "x": -503,
+    "y": 305
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "1CE05D13-5CC7-4E6E-B4AD-CA092F57A646"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C8E7B52F-AE17-491E-8C1A-FD83F9845D8E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E56218D8-21E1-44FA-B737-DA743C148623"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D2F981D2-CAA2-4535-B527-EBEE985DBCBF"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "4FFDFAFD-EB46-4FA2-A977-9B85396300DE"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "FD34AC10-C54B-4A0E-BC3F-9481D7BF2B7D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "17FF0AF3-5757-4240-9B51-4090690C6C9A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "FB31A530-C7C6-444F-9F47-A2299A71418A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "26BB982B-3679-45D4-A976-875E07FA858D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "456C0EC8-22F9-4B88-98C0-2C7D26A8D17E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "916F6F09-A6DC-45D5-8AB7-FE861E5C19DD"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "14B77249-C7C4-4628-91CE-C7D8AAC382D7"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "4B39C5D5-6792-4A85-94FC-9AA4013B4B93"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "82AA19D9-EA56-4707-A5C6-5C1F3BF74A10"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "89F919FA-2526-41BE-BECE-D51092631A9B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "373242BF-DFC2-4033-BDEF-89D25555ECE5"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "7454E851-8EA6-4D35-B1E1-A99AB0E8E493"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "4729F007-D802-4ABC-86CC-DE5DB6D52F74"
+    }
+  ],
+  "name": "Artboard",
+  "nameIsFixed": false,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 850,
+    "name": "Pixel",
+    "offersLandscapeVariant": 0,
+    "width": 1280
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

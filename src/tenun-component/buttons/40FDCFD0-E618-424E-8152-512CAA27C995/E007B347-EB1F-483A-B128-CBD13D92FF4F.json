@@ -16,7 +16,7 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 52,
-    "width": 124,
+    "width": 108,
     "x": 0,
     "y": 0
   },
@@ -27,14 +27,14 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
-  "name": "shape",
+  "layerListExpandedType": 2,
+  "name": "background",
   "nameIsFixed": true,
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "do_objectID": "1DEDCDDE-6BBF-46F6-B1F7-C977FEDFBD11",
-      "overrideName": "A0F0E934-848F-437F-8EF7-7E473CC1D3B9_layerStyle",
+      "do_objectID": "240161E2-0580-4B02-8F9C-5CDD253A1DB9",
+      "overrideName": "B0FBB0EF-BCA5-41E7-8376-454EF9D01EA3_layerStyle",
       "value": "2713CC02-6708-4CAF-BEF8-36AB92B5261D"
     }
   ],
@@ -50,6 +50,6 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "CBC2C4B7-1AE4-4287-940E-B9B10E87530F",
+  "symbolID": "7D4F3D0C-E7B3-4F68-9AFC-967B7D774866",
   "verticalSpacing": 0
 }
